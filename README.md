@@ -10,7 +10,7 @@ Click here (https://teresaliuu.github.io/Eventify-your-map/)
 
 ## Info
 ![Landing Page](https://github.com/FrantzCFelix/Eventify-your-map/blob/master/assets/home.PNG?raw=true)   
-Eventify Your Map is a website that give the user the ability to search for events based on a set of criteria. The user may choose to input keywords, date ranges, cities, search radius. The usere must fill out a city. All other criteria can be left blank or filled out based on how refined the user would like their results. Once the user submits their critera the map populates all the events that match the users criteria. When the user clicks on a map marker event information and an event picture populate on the website.  
+Eventify Your Map is a website that give the user the ability to search for events based on a set of criteria. The user may choose to input keywords, date ranges, cities, search radius. The user must fill out a city. All other criteria can be left blank or filled out based on how refined the user would like their results. Once the user submits their critera the map populates all the events that match the users criteria. When the user clicks on a map marker event information and an event picture populate on the website.  
 
 ![Search Feature](https://github.com/FrantzCFelix/Eventify-your-map/blob/master/assets/search.PNG?raw=true)  
 Screenshot of the search feature that takes in user input
